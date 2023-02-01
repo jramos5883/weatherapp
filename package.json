@@ -1,0 +1,22 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Creating a weather app 2.0 using everything that I've learned thus far.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jramos5883/weatherapp.git"
+  },
+  "author": "John Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jramos5883/weatherapp/issues"
+  },
+  "homepage": "https://github.com/jramos5883/weatherapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
